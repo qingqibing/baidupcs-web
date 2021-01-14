@@ -15,7 +15,7 @@
   "author": "Aresn",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "filebrowser-frontend": "^1.6.0",
     "iview": "^3.0.0",
     "v-contextmenu": "^2.8.0",
